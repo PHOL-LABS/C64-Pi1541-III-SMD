@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC,Quantity
+Rotary_Encoder_Switch,ENC1,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,,1
+INSERT,SW2,SW_SPST_PTS645,,1
+BACK,SW1,SW_SPST_PTS645,,1
+POWER,D1,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,,1
+DRIVE,D2,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,,1
+Module Panel,J1,PinHeader_1x12_P2.54mm_Horizontal,,1
